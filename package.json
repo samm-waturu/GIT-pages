@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "samm.io",
+  "homepage": "https://github.com/demo-sync/GIT-pages",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
