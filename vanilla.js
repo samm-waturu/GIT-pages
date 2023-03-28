@@ -1,4 +1,5 @@
 //globals
+import img_1 from './public/bze.jpg'
 
 export function mouseCursor() {
 
