@@ -1,5 +1,5 @@
 //globals
-import img_1 from './public/bze.jpg'
+import img_1 from './public/assets/img/bze.jpg'
 
 export function mouseCursor() {
 
